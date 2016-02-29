@@ -6,4 +6,6 @@ Duis dolor urna, viverra sit amet porttitor vel, euismod id odio. Mauris volutpa
 
 Phasellus semper, erat ut pellentesque pharetra, purus elit accumsan est, sit amet tincidunt sapien dui semper purus. Etiam leo orci, aliquam sit amet commodo vitae, gravida sit amet metus. Maecenas leo sapien, auctor non risus sit amet, elementum tempus risus. Nulla ac eros et odio tincidunt fringilla. Duis nec bibendum nisl. Duis in augue eget lorem consequat aliquam. Aenean interdum non nibh non ultrices.
 
+This is my custom edit by pakedziora
+
 Nulla vitae rutrum tortor. Nam sodales risus urna, eu dapibus diam ornare ac. Maecenas sagittis erat mattis pellentesque ultricies. Integer pharetra pretium pulvinar. Nullam suscipit, urna quis dictum aliquam, odio leo congue neque, id venenatis justo metus vitae arcu. Nam fringilla ante non ante efficitur, in rutrum elit euismod. Nullam in metus non libero mattis placerat efficitur a ex.
